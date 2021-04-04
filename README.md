@@ -1,4 +1,6 @@
-### Hi there 👋
+### An Experienced Front End Developer
+
+My inner voice tells me that i need to contribute or create someting in here. Let's see what happens :eyes:
 
 <!--
 **cihataykas/cihataykas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
