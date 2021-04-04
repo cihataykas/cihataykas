@@ -1,4 +1,4 @@
-### An Experienced Front End Developer
+### :zap: An Experienced Front End Developer
 
 My inner voice tells me that i need to contribute or create someting in here. Let's see what happens :eyes:
 
